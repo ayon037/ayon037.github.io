@@ -218,6 +218,15 @@
 
         a {
           margin-left: 0;
+
+          /* the site title is a brand link, not a menu item: no hover underline */
+          &:before {
+            display: none;
+          }
+
+          &:hover {
+            text-decoration: none;
+          }
         }
       }
 
