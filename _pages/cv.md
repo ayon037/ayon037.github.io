@@ -9,7 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="/files/CV_Mohiuddin_Bilwal.pdf" type="application/pdf" width="100%" height="1000px" style="border: 1px solid #ccc;">
-  <p>Your browser does not support inline PDFs.
-  <a href="/files/CV_Mohiuddin_Bilwal.pdf">Click here to download the CV</a>.</p>
+<style>
+  .cv-embed { display: block; width: 100%; height: 1000px; border: 1px solid #ccc; }
+  .cv-mobile { display: none; }
+  @media screen and (max-width: 768px) {
+    .cv-embed { display: none; }
+    .cv-mobile { display: block; }
+  }
+</style>
+
+<object class="cv-embed" data="/files/CV_Mohiuddin_Bilwal.pdf" type="application/pdf">
 </object>
+
+<p class="cv-mobile">
+  <a href="/files/CV_Mohiuddin_Bilwal.pdf" target="_blank" rel="noopener" class="btn btn--info">Open / Download my CV (PDF)</a>
+</p>
