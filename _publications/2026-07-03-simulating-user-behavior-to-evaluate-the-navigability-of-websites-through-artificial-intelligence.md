@@ -2,11 +2,11 @@
 title: "Simulating User Behavior to Evaluate the Navigability of Websites Through Artificial Intelligence"
 collection: publications
 category: manuscripts
-permalink: /publication 2026-07-03-simulating-user-behavior-to-evaluate-the-navigability-of-websites-through-artificial-intelligence
+permalink: /publication/2026-07-03-simulating-user-behavior-to-evaluate-the-navigability-of-websites-through-artificial-intelligence
 date: 2026-07-03
 status: 'Ongoing Research'
 paperurl: 'https://drive.google.com/file/d/1lfeS97mwYxaljwsAVD8MKS7rPX09wklh/view?usp=sharing'
-citation: 'Mohiuddin Bilwal, Co-Author. (2026). &quot;Simulating User Behavior to Evaluate the Navigability of Websites Through Artificial Intelligence.&quot; <i>Journal Draft</i>.'
+paperurllabel: 'Download Draft'
 ---
 Nowadays, an intuitive user interface is very crucial to ensure user acceptance of any kind
 of software solution. Thus, it is always required to test the intuitiveness as well as usability of a website
