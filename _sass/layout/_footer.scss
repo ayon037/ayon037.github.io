@@ -62,11 +62,17 @@
   body {
     display: flex;
     flex-direction: column;
-    min-height: 100vh;   /* fallback for older browsers */
-    min-height: 100dvh;  /* match the visible viewport, avoids gap under the address bar */
+    min-height: 100vh; /* fallback for older browsers */
     box-sizing: border-box;
     /* drop the desktop fixed-footer spacer so the footer sits flush at the bottom */
     padding-bottom: 0;
+  }
+
+  /* match the visible viewport (excludes the mobile address bar) to avoid a gap below the footer */
+  @supports (min-height: 100dvh) {
+    body {
+      min-height: 100dvh;
+    }
   }
 
   /* don't pin the footer on mobile devices; let it fall to the bottom */
