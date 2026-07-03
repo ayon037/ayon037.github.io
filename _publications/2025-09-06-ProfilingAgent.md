@@ -2,7 +2,7 @@
 title: "ProfAgent: Profiling-Guided Agentic Reasoning for Adaptive Model Optimization"
 collection: publications
 category: manuscripts
-permalink: /publication/ProfilingAgent: Profiling-Guided Agentic Reasoning for Adaptive Model Optimization
+permalink: /publication/2025-09-06-ProgilingAgent
 date: 2025-09-06
 venue: 'IEEE Computational Intelligence Society (CIS) - Under Review'
 paperurl: 'https://arxiv.org/abs/2509.05584'
