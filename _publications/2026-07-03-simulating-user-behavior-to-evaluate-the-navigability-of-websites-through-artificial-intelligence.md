@@ -3,7 +3,7 @@ title: "Simulating User Behavior to Evaluate the Navigability of Websites Throug
 collection: publications
 category: manuscripts
 permalink: /publication/2026-07-03-simulating-user-behavior-to-evaluate-the-navigability-of-websites-through-artificial-intelligence
-date: 2026-07-03
+date: 2024-04-10
 status: 'Ongoing Research'
 paperurl: 'https://drive.google.com/file/d/1lfeS97mwYxaljwsAVD8MKS7rPX09wklh/view?usp=sharing'
 paperurllabel: 'Download Draft'
