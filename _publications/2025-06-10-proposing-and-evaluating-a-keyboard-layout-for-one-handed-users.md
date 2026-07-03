@@ -2,7 +2,7 @@
 title: "Proposing and Evaluating a Modified Keyboard Layout for One-Handed Users"
 collection: publications
 category: conferences
-permalink: /publication/2025-06-10-proposing-and-exaluating-a-keyboard-layout-for-one-handed-users
+permalink: /publication/2025-06-10-proposing-and-evaluating-a-keyboard-layout-for-one-handed-users
 date: 2025-06-10
 venue: '27th International Conference on Computer and Information Technology (ICCIT 2024), Cox’s Bazar, Bangladesh'
 paperurl: 'https://ieeexplore.ieee.org/document/11021771'
