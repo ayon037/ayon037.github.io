@@ -62,7 +62,8 @@
   body {
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 100vh;   /* fallback for older browsers */
+    min-height: 100dvh;  /* match the visible viewport, avoids gap under the address bar */
     box-sizing: border-box;
     /* drop the desktop fixed-footer spacer so the footer sits flush at the bottom */
     padding-bottom: 0;
