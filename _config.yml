@@ -31,7 +31,6 @@ author:
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=1PbQRdYAAAAJ&hl=en"
   orcid            : "https://orcid.org/0009-0004-3172-6709"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Mohiuddin-Bilwal"
 
 
@@ -40,7 +39,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
