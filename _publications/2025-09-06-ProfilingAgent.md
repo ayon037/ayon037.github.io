@@ -1,5 +1,5 @@
 ---
-title: "ProfAgent: Profiling-Guided Agentic Reasoning for Adaptive Model Optimization"
+title: "ProfilingAgent: Profiling-Guided Agentic Reasoning for Adaptive Model Optimization"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-06-ProgilingAgent
