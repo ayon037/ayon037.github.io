@@ -13,4 +13,4 @@ My research focuses on **LLM-based agentic systems**, **efficient deep learning 
 
 I am currently seeking PhD positions in Computer Science starting Fall 2027. My research interests include large language model agents, efficient and adaptive model optimization, natural language processing, and human-centered AI. I am especially keen to join a group where I can combine rigorous machine learning research with a focus on real-world usability and impact. Feel free to reach out if my interests align with your work.
 
-[Download my CV](/files/CV_Mohiuddin_Bilwal.pdf)
+[Download CV](/files/CV_Mohiuddin_Bilwal.pdf)
