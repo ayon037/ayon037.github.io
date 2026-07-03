@@ -58,6 +58,12 @@
 }
 
 @media screen and (max-width: 768px) {
+  /* the theme's html min-height:100% resolves to the large mobile viewport and
+     leaves a gap below the footer; collapse it so html matches the body height */
+  html {
+    min-height: 0;
+  }
+
   /* sticky footer: keep it at the bottom of the viewport on short pages */
   body {
     display: flex;
