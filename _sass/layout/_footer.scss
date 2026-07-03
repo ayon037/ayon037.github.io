@@ -64,6 +64,8 @@
     flex-direction: column;
     min-height: 100vh;
     box-sizing: border-box;
+    /* drop the desktop fixed-footer spacer so the footer sits flush at the bottom */
+    padding-bottom: 0;
   }
 
   /* don't pin the footer on mobile devices; let it fall to the bottom */
