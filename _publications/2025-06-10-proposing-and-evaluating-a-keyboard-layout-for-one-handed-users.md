@@ -6,6 +6,7 @@ permalink: /publication/2025-06-10-proposing-and-evaluating-a-keyboard-layout-fo
 date: 2025-06-10
 venue: '27th International Conference on Computer and Information Technology (ICCIT 2024), Cox’s Bazar, Bangladesh'
 paperurl: 'https://ieeexplore.ieee.org/document/11021771'
+paperurllabel: 'View on IEEE Xplore'
 citation: 'Mohiuddin Bilwal, Author. (2025). &quot;Proposing and Evaluating a Modified Keyboard Layout for One-Handed Users.&quot; <i>International Conference on Computer and Information Technology (ICCIT 2024)</i>.'
 ---
 
