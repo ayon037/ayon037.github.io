@@ -58,10 +58,19 @@
 }
 
 @media screen and (max-width: 768px) {
-  /* don't pin the footer on mobile devices */
+  /* sticky footer: keep it at the bottom of the viewport on short pages */
+  body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+
+  /* don't pin the footer on mobile devices; let it fall to the bottom */
   .page__footer {
     position: relative;
     bottom: auto;
+    float: none;
+    margin-top: auto;
   }
 }
 
