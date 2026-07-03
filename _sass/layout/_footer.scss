@@ -64,7 +64,7 @@
     min-height: 0;
   }
 
-  /* sticky footer: keep it at the bottom of the viewport on short pages */
+  /* sticky footer via flex: content grows to fill, footer sits right after it */
   body {
     display: flex;
     flex-direction: column;
@@ -81,12 +81,17 @@
     }
   }
 
+  /* content fills the free space so the footer is pushed to the bottom */
+  #main {
+    flex: 1 0 auto;
+  }
+
   /* don't pin the footer on mobile devices; let it fall to the bottom */
   .page__footer {
     position: relative;
     bottom: auto;
     float: none;
-    margin-top: auto;
+    flex: 0 0 auto;
   }
 }
 
