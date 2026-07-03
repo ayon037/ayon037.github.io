@@ -4,7 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-09-06-ProfilingAgent
 date: 2025-09-06
-venue: 'IEEE Computational Intelligence Society (CIS) - Under Review'
+venue: 'IEEE Computational Intelligence Society (CIS)'
+status: 'Under review at'
 paperurl: 'https://arxiv.org/abs/2509.05584'
 citation: 'Mohiuddin Bilwal, Co-Author. (2025). &quot;ProfilingAgent: Profiling-Guided Agentic Reasoning for Adaptive Model Optimization.&quot; <i>IEEE Computational Intelligence Society (CIS)</i>.'
 ---
