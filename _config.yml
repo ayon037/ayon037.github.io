@@ -21,7 +21,7 @@ url                      : https://ayon037.github.io # The base hostname & proto
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Mohiuddin Bilwal"
   pronouns         : "He/Him"  
   bio              : "Researcher in Machine Learning and HCI"
